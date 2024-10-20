@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/7H61n2Ex768AEJ5E9)]
+[![MasterHead](https://github.com/md-abidhussain/banner/blob/main/Banner.png)]
 <h1 align="center">Hey 👋, I'm Mohd Abid Hussain</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/md-abidhussain/banner/blob/main/right%20image.gif"/>
