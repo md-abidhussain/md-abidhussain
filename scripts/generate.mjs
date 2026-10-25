@@ -22,7 +22,7 @@ const PROFILE = {
   lines: [
     "Full-Stack · GenAI · Software Engineering",
     "B.Tech CSE '27 · Jamia Hamdard, New Delhi",
-    "Java · React · Node.js · MongoDB · LLM APIs",
+    "Java · SQL · React · Node.js · LLM APIs",
   ],
   footer: "Open to SDE · Full-Stack · GenAI roles",
 };
