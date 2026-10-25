@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="212" viewBox="0 0 840 212" role="img" aria-label="DonorX. HEALTHTECH · TECHNOZOVA 6.0, 24-HOUR HACKATHON. A blood-donor request board that ranks requests by urgency, expires them automatically and uses rule-based checks to hold back fake posts. Tech: JavaScript, Bootstrap">
+<title>DonorX. HEALTHTECH · TECHNOZOVA 6.0, 24-HOUR HACKATHON. A blood-donor request board that ranks requests by urgency, expires them automatically and uses rule-based checks to hold back fake posts. Tech: JavaScript, Bootstrap</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="839" height="211" rx="14" fill="#0a0a0a" stroke="#262626"/>
+<text x="32" y="50" fill="#ededed" font-size="21" font-weight="700">DonorX</text>
+<text x="808" y="50" fill="#8f8f8f" font-size="16" text-anchor="end">↗</text>
+<text x="32" y="74" fill="#7ee787" font-size="11.5" letter-spacing="1.2">HEALTHTECH · TECHNOZOVA 6.0, 24-HOUR HACKATHON</text>
+<text x="32" y="104" fill="#8f8f8f" font-size="14">A blood-donor request board that ranks requests by urgency, expires them automatically and</text>
+<text x="32" y="126" fill="#8f8f8f" font-size="14">uses rule-based checks to hold back fake posts.</text>
+<rect x="32" y="156" width="94" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="79" y="172" fill="#ededed" font-size="12" text-anchor="middle">JavaScript</text>
+<rect x="134" y="156" width="87" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="177.5" y="172" fill="#ededed" font-size="12" text-anchor="middle">Bootstrap</text>
+</svg>

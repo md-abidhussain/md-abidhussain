@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="234" viewBox="0 0 840 234" role="img" aria-label="LoanLens AI. FINTECH · AI HACKATHON 2026. Upload a loan agreement as a PDF or image. It extracts the text, flags risky clauses, estimates the effective APR, scores the loan&#39;s health and suggests what to negotiate. The LLM returns schema-validated JSON; past scans are stored in SQLite. Tech: Node.js, Express, SQLite, Gemini, REST API">
+<title>LoanLens AI. FINTECH · AI HACKATHON 2026. Upload a loan agreement as a PDF or image. It extracts the text, flags risky clauses, estimates the effective APR, scores the loan&#39;s health and suggests what to negotiate. The LLM returns schema-validated JSON; past scans are stored in SQLite. Tech: Node.js, Express, SQLite, Gemini, REST API</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="839" height="233" rx="14" fill="#0a0a0a" stroke="#262626"/>
+<text x="32" y="50" fill="#ededed" font-size="21" font-weight="700">LoanLens AI</text>
+<text x="808" y="50" fill="#8f8f8f" font-size="16" text-anchor="end">↗</text>
+<text x="32" y="74" fill="#7ee787" font-size="11.5" letter-spacing="1.2">FINTECH · AI HACKATHON 2026</text>
+<text x="32" y="104" fill="#8f8f8f" font-size="14">Upload a loan agreement as a PDF or image. It extracts the text, flags risky clauses,</text>
+<text x="32" y="126" fill="#8f8f8f" font-size="14">estimates the effective APR, scores the loan&#39;s health and suggests what to negotiate. The</text>
+<text x="32" y="148" fill="#8f8f8f" font-size="14">LLM returns schema-validated JSON; past scans are stored in SQLite.</text>
+<rect x="32" y="178" width="72" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="68" y="194" fill="#ededed" font-size="12" text-anchor="middle">Node.js</text>
+<rect x="112" y="178" width="72" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="148" y="194" fill="#ededed" font-size="12" text-anchor="middle">Express</text>
+<rect x="192" y="178" width="65" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="224.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">SQLite</text>
+<rect x="265" y="178" width="65" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="297.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">Gemini</text>
+<rect x="338" y="178" width="80" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="378" y="194" fill="#ededed" font-size="12" text-anchor="middle">REST API</text>
+</svg>

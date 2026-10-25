@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="296" viewBox="0 0 840 296" role="img" aria-label="Tech stack: Languages: Java · JavaScript · Python · SQL; Frontend: React · HTML · CSS · Tailwind CSS · Bootstrap; Backend: Node.js · Express.js · REST APIs · JWT Auth; Databases: MongoDB · MySQL · SQLite; GenAI: LLM APIs (Gemini) · Prompt Engineering · RAG; Tools: Git · GitHub Actions · Vercel · Render; Core CS: DSA (Java) · OOP · DBMS · OS · Computer Networks">
+<title>Tech stack: Languages: Java · JavaScript · Python · SQL; Frontend: React · HTML · CSS · Tailwind CSS · Bootstrap; Backend: Node.js · Express.js · REST APIs · JWT Auth; Databases: MongoDB · MySQL · SQLite; GenAI: LLM APIs (Gemini) · Prompt Engineering · RAG; Tools: Git · GitHub Actions · Vercel · Render; Core CS: DSA (Java) · OOP · DBMS · OS · Computer Networks</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="839" height="295" rx="14" fill="#0a0a0a" stroke="#262626"/>
+<text x="32" y="42" fill="#7ee787" font-size="12" font-weight="600" letter-spacing="2.5">TECH STACK</text>
+<text x="32" y="80" fill="#8f8f8f" font-size="13">Languages</text><text x="172" y="80" fill="#ededed" font-size="14">Java · JavaScript · Python · SQL</text>
+<text x="32" y="110" fill="#8f8f8f" font-size="13">Frontend</text><text x="172" y="110" fill="#ededed" font-size="14">React · HTML · CSS · Tailwind CSS · Bootstrap</text>
+<text x="32" y="140" fill="#8f8f8f" font-size="13">Backend</text><text x="172" y="140" fill="#ededed" font-size="14">Node.js · Express.js · REST APIs · JWT Auth</text>
+<text x="32" y="170" fill="#8f8f8f" font-size="13">Databases</text><text x="172" y="170" fill="#ededed" font-size="14">MongoDB · MySQL · SQLite</text>
+<text x="32" y="200" fill="#8f8f8f" font-size="13">GenAI</text><text x="172" y="200" fill="#ededed" font-size="14">LLM APIs (Gemini) · Prompt Engineering · RAG</text>
+<text x="32" y="230" fill="#8f8f8f" font-size="13">Tools</text><text x="172" y="230" fill="#ededed" font-size="14">Git · GitHub Actions · Vercel · Render</text>
+<text x="32" y="260" fill="#8f8f8f" font-size="13">Core CS</text><text x="172" y="260" fill="#ededed" font-size="14">DSA (Java) · OOP · DBMS · OS · Computer Networks</text>
+</svg>

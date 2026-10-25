@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="234" viewBox="0 0 840 234" role="img" aria-label="AI Interview Coach. EDTECH · EDUNET × MICROSOFT INTERNSHIP PROJECT. Mock interviews for any role. Answer by typing, uploading audio or speaking live. Whisper transcribes, and an LLM scores each answer out of 10 with structured feedback. bcrypt-hashed logins in SQLite. Tech: Python, Streamlit, Gemini, Whisper, SQLite">
+<title>AI Interview Coach. EDTECH · EDUNET × MICROSOFT INTERNSHIP PROJECT. Mock interviews for any role. Answer by typing, uploading audio or speaking live. Whisper transcribes, and an LLM scores each answer out of 10 with structured feedback. bcrypt-hashed logins in SQLite. Tech: Python, Streamlit, Gemini, Whisper, SQLite</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="839" height="233" rx="14" fill="#0a0a0a" stroke="#262626"/>
+<text x="32" y="50" fill="#ededed" font-size="21" font-weight="700">AI Interview Coach</text>
+<text x="808" y="50" fill="#8f8f8f" font-size="16" text-anchor="end">↗</text>
+<text x="32" y="74" fill="#7ee787" font-size="11.5" letter-spacing="1.2">EDTECH · EDUNET × MICROSOFT INTERNSHIP PROJECT</text>
+<text x="32" y="104" fill="#8f8f8f" font-size="14">Mock interviews for any role. Answer by typing, uploading audio or speaking live. Whisper</text>
+<text x="32" y="126" fill="#8f8f8f" font-size="14">transcribes, and an LLM scores each answer out of 10 with structured feedback. bcrypt-hashed</text>
+<text x="32" y="148" fill="#8f8f8f" font-size="14">logins in SQLite.</text>
+<rect x="32" y="178" width="65" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="64.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">Python</text>
+<rect x="105" y="178" width="87" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="148.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">Streamlit</text>
+<rect x="200" y="178" width="65" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="232.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">Gemini</text>
+<rect x="273" y="178" width="72" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="309" y="194" fill="#ededed" font-size="12" text-anchor="middle">Whisper</text>
+<rect x="353" y="178" width="65" height="24" rx="12" fill="#161616" stroke="#262626"/><text x="385.5" y="194" fill="#ededed" font-size="12" text-anchor="middle">SQLite</text>
+</svg>
