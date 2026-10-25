@@ -9,7 +9,6 @@ on:
     paths:
       - "scripts/**"
       - "assets/portrait.*"
-      - "README.md"
       - ".github/workflows/profile.yml"
 
 permissions:
@@ -43,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git diff --cached --quiet || git commit -m "chore: refresh profile graphics"
+          git add assets/*.svg README.md
+          git diff --cached --quiet || git commit -m "chore: refresh profile"
           git push
