@@ -1,32 +1,55 @@
-[![MasterHead](https://github.com/md-abidhussain/banner/blob/main/Banner.png)]
-<h1 align="center">Hey 👋, I'm Mohd Abid Hussain</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/md-abidhussain/banner/blob/main/right%20image.gif"/>
+<img alt="Mohd Abid Hussain — full-stack, GenAI and software engineering. B.Tech CSE '27, Jamia Hamdard, New Delhi." src="assets/header-dark.svg" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abidhussain&label=Profile%20views&color=0e75b6&style=flat" alt="md-abidhussain" /> </p>
+[email](mailto:abidhussain.m47@gmail.com) · [linkedin](https://www.linkedin.com/in/mohd-abid-hussain) · [x](https://x.com/md_abid_13)
 
-<p align="left"> <a href="https://twitter.com/@md_abid_13" target="blank"><img src="https://img.shields.io/twitter/follow/@md_abid_13?logo=twitter&style=for-the-badge" alt="@md_abid_13" /></a> </p>
+### about
 
-- 🌱 I’m currently learning **Front-end Development & Java**
+Final-year B.Tech CSE student at Jamia Hamdard, New Delhi, graduating in 2027. I build full-stack web apps with GenAI features: React and Node for the product, LLM APIs for the intelligence. I deploy what I build and practise DSA in Java.
 
-- 💬 Ask me about **HTML,CSS**
+Looking for **Associate Software Engineer / SDE, full-stack and GenAI roles**, from 2027 or as an internship from 2026.
 
-- 📫 How to reach me **abidhussain.m47@gmail.com**
+### stack
 
-- ⚡ Fun fact **Always available to code!**
+```
+languages     java · javascript · python · sql
+frontend      react · html · css · tailwind · bootstrap
+backend       node · express · rest apis · jwt auth
+databases     mongodb · mysql · sqlite
+genai         llm apis (gemini) · prompt engineering · rag
+tools         git · github actions · vercel · render
+fundamentals  dsa (java) · oop · dbms · os · computer networks
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@md_abid_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@md_abid_13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-abid-hussain?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-abid-hussain?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/@md_abid_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@md_abid_13" height="30" width="40" /></a>
-</p>
+### projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+**[gramsetu ai](https://github.com/md-abidhussain/GramSetu)** · national finalist, nxtwave idea2impact · lead developer, team of 3\
+A GovTech platform where citizens, inspectors and officials audit public infrastructure work. Photo evidence goes through two checks: Gemini Vision for context, and a YOLOv8 segmentation model that measures potholes and cracks in cm². Role-based access with JWT, contractor trust scores, and map dashboards.\
+`react` `node` `express` `mongodb` `jwt` `gemini` · [live](https://gramsetu-india.vercel.app)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abidhussain&show_icons=true&locale=en&layout=compact" alt="md-abidhussain" /></p>
+**[loanlens ai](https://github.com/md-abidhussain/LoanLensAI)** · ai hackathon 2026\
+Upload a loan agreement as a PDF or image. It extracts the text, flags risky clauses, estimates the effective APR, scores the loan's health and suggests what to negotiate. Gemini returns schema-validated JSON, and past scans are stored in SQLite.\
+`node` `express` `sqlite` `gemini` `rest api` · [live](https://loanlens-ai.onrender.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abidhussain&show_icons=true&locale=en" alt="md-abidhussain" /></p>
+**[ai interview coach](https://github.com/md-abidhussain/AI-Interview-Coach)** · edunet × microsoft internship project\
+Mock interviews for any role. Answer by typing, uploading audio or speaking live. Whisper transcribes, and Gemini scores the answer out of 10 with structured feedback. bcrypt-hashed logins in SQLite.\
+`python` `streamlit` `gemini` `whisper` `sqlite` · [live](https://ai-interview-coach-6122005.streamlit.app)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abidhussain&" alt="md-abidhussain" /></p>
+**[donorx](https://github.com/md-abidhussain/donorx)** · technozova 6.0, 24-hour hackathon\
+A blood-donor request board that ranks requests by urgency, expires them automatically, and uses rule-based checks to hold back fake posts.\
+`javascript` `bootstrap` · [live](https://md-abidhussain.github.io/donorx/)
+
+<sub>The Render-hosted demos sleep when idle, so the first load can take about a minute.</sub>
+
+### experience
+
+**AI Engineer Intern** · Coding Blocks School of Technology · Jun – Jul 2026\
+Gen AI track. Projects: telecom customer-churn prediction, and an AI research-analysis assistant built both with and without an agent.
+
+**AI Azure Intern** · Edunet Foundation × Microsoft × AICTE · Jun – Jul 2025\
+4-week AI on Azure program. Final project: AI Interview Coach.
+
+### activity
+
+<img alt="GitHub contributions in the last year, streaks and languages" src="assets/activity-dark.svg" width="100%">
+
+<sub>A <a href="scripts/generate.mjs">small Node script</a> draws the graphics on this page from the GitHub GraphQL API, and a <a href=".github/workflows/profile.yml">GitHub Action</a> refreshes them every night. The portrait is my photo, converted to ASCII by the same script. No third-party stat services.</sub>
